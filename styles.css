@@ -1,0 +1,106 @@
+
+
+.Container__contain--vDvgc {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.index__section2_video--3vwq7 {
+    position:fixed;
+    left: 0;
+    width: 19.2rem;
+    height: 11rem;
+    z-index: -1;
+}
+
+
+div {
+    display: block;
+}
+
+
+.navbar {
+  background-color: black;
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+
+
+
+
+/* About */
+
+
+.divider {
+    padding-top: 50px
+}
+
+.center-block {
+  width: auto;
+  height: auto;
+}
+
+.containergt {
+    padding-top: 60%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.heading-block h2{
+	text-transform: uppercase;
+}
+.background-right h2, h3{
+	text-align: left;
+}
+.background-right p,h1,h2,h3,h4,h5 {
+	letter-spacing: 1px;
+	font-style: normal;
+}
+.button.button-3d {
+    border-radius: 3px;
+    border-bottom: 3px solid rgba(0,0,0,.15);
+    -webkit-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+.button.button-xlarge {
+    padding: 0 32px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    height: 52px;
+    line-height: 52px;
+}
+.button-blue {
+    background-color: #f9b106;
+}
+.button {
+    display: inline-block;
+    cursor: pointer;
+    white-space: nowrap;
+    margin: 5px;
+      margin-bottom: 5px;
+    padding: 0 22px;
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+    background: #fe9125;
+    background-color: #f9b106;
+    color: #FFF;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+        border-bottom-width: medium;
+        border-bottom-style: none;
+        border-bottom-color: currentcolor;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.2);
+}
+
+.tro-orange {
+    color: #fe9125!important;
+}
